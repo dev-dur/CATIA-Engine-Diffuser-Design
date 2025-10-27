@@ -1,5 +1,6 @@
 # 🛠️ Engine Diffuser Design (CATIA V5)
-<img width="1496" height="673" alt="Preview_Image" src="https://github.com/user-attachments/assets/6a2197ce-2053-4838-b432-81c3ff5405a9" />
+<img width="1706" height="815" alt="Preview_Image" src="https://github.com/user-attachments/assets/4fc8658a-9800-4577-a1a2-6fb3dc735402" />
+
 
 ## 📘 Overview
 This repository showcases the **Engine Diffuser** designed and modeled in **CATIA V5** as part of a personal mechanical design portfolio.  
